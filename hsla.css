@@ -1,0 +1,13 @@
+body {
+    background-color: #C8C8C8;
+    background-color: hsl(0,0%,78%);}
+p {
+    background-color: #ffffff;
+    background-color: hsla(0,100%,100%,0.5);}
+h1 {
+    color: white;
+    background-color: Darkcyan;}
+h2 {
+    color: white;
+    background-color: #ee3e80;}
+}
